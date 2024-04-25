@@ -51,3 +51,10 @@ Saya harap proyek ini bisa dijadikan referensi bagi para pembaca, dan jangan men
      alt="Search View"
      style="float: left; margin-right: 10px;"
      width="200" />
+
+## Lain - Lain
+
+<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-3/main/Preview/Sertifikat.png"
+     alt="Sertifikat"
+     style="float: left; margin-right: 10px;"
+     width="600" />
