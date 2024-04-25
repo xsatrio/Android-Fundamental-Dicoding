@@ -1,0 +1,13 @@
+<resources>
+    <style name="Base.Theme.GitHubUser" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bgapp</item>
+    </style>
+
+    <style name="Theme.GitHubUser" parent="Base.Theme.GitHubUser" />
+
+    <style name="AppTheme.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bgsplash</item>
+        <item name="colorOnBackground">@color/bgsplash</item>
+    </style>
+
+</resources>
