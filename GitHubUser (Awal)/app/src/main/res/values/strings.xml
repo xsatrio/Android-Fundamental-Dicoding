@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="searchbar_hint">Masukkan Username</string>
+    <string name="menu_1">About Me :3</string>
+    <string name="splash">xsatrio93</string>
+    <string name="detailus">Detail User</string>
+
+    <color name="bgsplash">#2b3137</color>
+    <color name="bgapp">#4183C4</color>
+    <color name="txtsplash">#fafbfc</color>
+</resources>
