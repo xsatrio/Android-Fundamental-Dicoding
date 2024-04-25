@@ -4,7 +4,27 @@ Saya harap proyek ini bisa dijadikan referensi bagi para pembaca, dan jangan men
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-2/main/splash.png"
+<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-3/main/Preview/Screenshot_2024-04-25-14-00-01-356_com.dicoding.githubuser-edit.png"
      alt="Splash Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-3/main/Preview/Screenshot_2024-04-25-13-57-48-770_com.dicoding.githubuser-edit.png"
+     alt="Profile"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-3/main/Preview/Screenshot_2024-04-25-13-57-32-253_com.dicoding.githubuser-edit.png"
+     alt="Light Theme"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-3/main/Preview/Screenshot_2024-04-25-13-57-37-288_com.dicoding.githubuser-edit.png"
+     alt="Dark Theme"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://raw.githubusercontent.com/xsatrio/submission-android-developer-dicoding-path-3/main/Preview/Screenshot_2024-04-25-13-57-42-946_com.dicoding.githubuser-edit.png"
+     alt="Favorite List"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://github.com/xsatrio/submission-android-developer-dicoding-path-3/blob/main/Preview/Screenshot_2024-04-25-13-57-57-928_com.dicoding.githubuser-edit.png"
+     alt="Search View"
      style="float: left; margin-right: 10px;"
      width="200" />
